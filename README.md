@@ -5,7 +5,7 @@
 # 环境搭建
 
 - java 17
-- maven 3.8.3及以上（具体的flink，kafka版本在maven文件中已经配置好）
+- maven 3.8.3及以上（具体的flink，kafka版本在pom.xml中已经配置好）
 
 # 项目框架
 
